@@ -1,0 +1,3 @@
+[submodule "phishing-education-demo"]
+	path = phishing-education-demo
+	url = https://github.com/CROSS9111/phishing-education-demo.git

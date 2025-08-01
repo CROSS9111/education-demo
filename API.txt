@@ -1,0 +1,3 @@
+https://zenn.dev/kazukih/articles/f3f3def174c4dc
+https://docs.anthropic.com/ja/docs/claude-code/github-actions
+https://github.com/choplin/mcp-gemini-cli
